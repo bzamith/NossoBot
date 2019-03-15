@@ -1,0 +1,14 @@
+{
+    "name": "NossoBot",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "http://localhost:9000",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:9000",
+            "name": "NossoBot"
+        }
+    ]
+}
