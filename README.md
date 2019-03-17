@@ -1,5 +1,5 @@
 # Hackathon-Microsoft
-A [Would You Rather Game](https://www.wikihow.com/Play-Would-You-Rather) Bot developed for Microsoft's Hackathon "Bot-ando a mão na massa" 2019 USP.
+A [Would You Rather Game](https://www.wikihow.com/Play-Would-You-Rather) Bot developed for [Microsoft's Hackathon "Bot-ando a mão na massa" 2019 USP](https://icmc.usp.br/noticias/4118-bot-ando-a-mao-na-massa-microsoft-promove-hackathon-no-icmc?fbclid=IwAR2R6Lizt7HjJeSRNbiANr0cSO7OnzRKta5bTGH00Pyya3MfupoSYMQjt60).
 
 More than 200 Would You Rather Quotes, obtained from [Conversation Starter World](https://conversationstartersworld.com/would-you-rather-questions/).
 
@@ -9,7 +9,7 @@ More than 200 Would You Rather Quotes, obtained from [Conversation Starter World
 - [Sabrina Faceroli](https://github.com/sabrinafaceroli)
 
 ## Running
-First, enable server:
+Firstly, enable server:
 ```bash
 python3 main.py
 ```
