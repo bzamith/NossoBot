@@ -4,9 +4,9 @@ A [Would You Rather Game](https://www.wikihow.com/Play-Would-You-Rather) Bot dev
 More than 200 Would You Rather Quotes, obtained from [Conversation Starter World](https://conversationstartersworld.com/would-you-rather-questions/).
 
 ## Team Members
-- Bruna Zamith
-- Marcos Fagloni
-- Sabrina Faceroli
+- [Bruna Zamith](https://github.com/bzamith)
+- [Marcos Faglioni](https://github.com/marcosfagli)
+- [Sabrina Faceroli](https://github.com/sabrinafaceroli)
 
 ## Running
 First, enable server:
